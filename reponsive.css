@@ -907,6 +907,14 @@ font-size: 15px;
     align-items: center;
     flex-wrap: wrap;
 }
+.content__9-in-list
+{
+    margin-left: 40px;
+    padding: 20px;
+    margin-right: 40px;
+    list-style: none;
+    text-align: center;
+}
 }
 @media(min-width:1021px){
     .slider__about 
