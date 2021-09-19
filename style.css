@@ -341,7 +341,6 @@
 {
     font-size: 15px;
     color: #fff;
-    margin-bottom: 10px;
 }
 .content__2-sub-heading 
 {
@@ -381,7 +380,7 @@
 .content__3-heading 
 {
     font-size: 18px;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
 .content__3-sub-heading 
 {
@@ -443,7 +442,7 @@
 .content__4-heading 
 {
     font-size: 18px;
-    margin-bottom: 20px;
+    margin-bottom: 7px;
     color: #fff;
     padding: 0 20px 0 20px;
 }
@@ -544,7 +543,7 @@
 {
     color: #fff;
     font-size: 17px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .content__5-sub-heading
 {
@@ -683,7 +682,7 @@
 .content__8-heading 
 {
     font-size: 18px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     color: #fff;
 }
 .content__8-sub-heading 
@@ -719,6 +718,7 @@
     -moz-appearance: none !important;
     border-radius: 0;
     -webkit-border-radius:0;
+    font-size: 16px;
 }
 .content__8-text-2 
 {
@@ -855,12 +855,16 @@
 {
     margin-right: 10px;
 }
+.content__10-icon i:hover  
+{
+    color: #01dbb4;
+}
 .content__10-list 
 {
     font-size: 15px;
      padding: 20px;
-     margin-left: 50px;
-     margin-right: 50px;
+     margin-left: 30px;
+     margin-right: 30px;
 }
 .content__10-list li 
 {
@@ -868,10 +872,15 @@
     margin-bottom: 10px;
     list-style: none;
 }
+.content__10-list li:hover 
+{
+    color: #01dbb4;
+}
 .content__10-list li i 
 {
     margin-right: 10px;
 }
+
 .content__10-text 
 {
     width: 150px;
